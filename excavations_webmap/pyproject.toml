@@ -1,0 +1,23 @@
+[tool.poetry]
+name = " excavations-webmap "
+version = "0.1.0"
+description = "This project creates an interactive webmap"
+authors = ["Antonios Koutroumpas <antonkout@gmail.com>"]
+license = "Copyright 2023 AntonKout, all rights reserved."
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fiona = "1.8.22"
+folium = "0.14.0"
+pathlib = "*"
+dash = "2.10.2"
+dash-bootstrap-components = "1.4.1"
+
+
+[tool.pytest.ini_options]
+filterwarnings = [
+]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

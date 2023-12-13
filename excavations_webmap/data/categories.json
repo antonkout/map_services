@@ -1,0 +1,21 @@
+{
+    "category_colors": {
+      "Οχύρωση": "lightgray",
+      "Ψηφιδωτό δάπεδο": "darkpurple",
+      "Ταφικός χώρος": "gray",
+      "Οικιστικός χώρος": "orange",
+      "Άγνωστη χρήση": "beige",
+      "Λατρεία": "lightred",
+      "Άλλο": "gray"
+    },
+    "category_icons": {
+      "Οχύρωση": "shield",
+      "Ψηφιδωτό δάπεδο": "puzzle-piece",
+      "Ταφικός χώρος": "monument",
+      "Οικιστικός χώρος": "home",
+      "Άγνωστη χρήση": "question",
+      "Λατρεία": "heart",
+      "Άλλο": "bed"
+    }
+  }
+  
