@@ -2,6 +2,9 @@
 
 ## Map Services
 
+**Author: Antonios Koutroumpas**
+**Contact: antonkout@gmail.com**
+
 ### Overview
 This module contains two repositories which construct a webmap framework.
 
@@ -21,8 +24,5 @@ Contains a dash API module facilitates tools to download Sentinel 1/2/3 and Land
     - Cloudiness Control: Set the maximum acceptable cloudiness level to filter search results.
     - Product Download: Download satellite products by providing the desired product ID and output folder.
 
-### Contributing
-If you'd like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
 ### License
-This project is licensed under the [LICENSE NAME] - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE).
